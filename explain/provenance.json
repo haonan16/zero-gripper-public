@@ -1,0 +1,43 @@
+{
+  "title": "Why two different fingers?",
+  "duration_seconds": 44,
+  "resolution": [
+    1280,
+    720
+  ],
+  "fps": 24,
+  "language": "English",
+  "archived_candidate_evaluation": 504,
+  "archived_score": 0.3452,
+  "deformation_magnification": 12,
+  "load_peak_N_per_finger": 1,
+  "source_sha256": {
+    "explain/index.html": "3efc398b28b06a6d464e95cc58f39f44a48dee96859bcb268b291ea54bee89e0",
+    "explain/story.js": "b49156f26f3346c11493d30ef7bfd8506a06c348ea7f8d6e32f759adb43ac269",
+    "explain/story.css": "035b7e6d73571ae38bbb5d09d65658626dcac96d0d7c56bae79ddeccef05d3b3",
+    "data/library.json": "c264f72663df99d3105da91dfe42e6ff2259b993de91c84d50b6a4b36ad80fae",
+    "evolution/history.json": "afc31e01c7d015c637e5f15c5c14a6eaaf68528c6c9ccd21d31d939194251d99"
+  },
+  "chapters": [
+    {
+      "start": 0,
+      "title": "Structure",
+      "evidence": "Actual archived geometry; assembly motion is an illustration"
+    },
+    {
+      "start": 10,
+      "title": "Same force, different response",
+      "evidence": "Saved linear FEM compliance, section displacement interpolation"
+    },
+    {
+      "start": 22,
+      "title": "The GET idea",
+      "evidence": "Original schematic, conceptual force arrows, no measured torque capacity"
+    },
+    {
+      "start": 32,
+      "title": "What the search found",
+      "evidence": "Six real saved candidates, cuts rather than geometry morphs"
+    }
+  ]
+}
